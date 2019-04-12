@@ -1,3 +1,5 @@
+# Author - Bradley Stephenson
+
 def log(text):
     flog = open("logb.txt", "a")
     newLine = """\n"""""
