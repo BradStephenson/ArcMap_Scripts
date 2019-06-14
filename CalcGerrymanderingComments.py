@@ -1,3 +1,5 @@
+# Author Bradley Stephenson
+
 import arcpy
 import math
 
