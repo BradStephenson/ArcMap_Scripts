@@ -1,3 +1,6 @@
+# Brad's Python Day $ Activity Script
+# Needs the mxd to work properly. 
+
 import arcpy
 # grab a reference to the current document
 mxd = arcpy.mapping.MapDocument("C:/Users/Brad/Documents/ArcGIS/PythonActivityDay4.mxd")
