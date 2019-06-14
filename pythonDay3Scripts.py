@@ -1,3 +1,6 @@
+# Author Bradley Stephenson
+# These functions are to be used in the python window in ArcMap
+
 def showVectorHideRaster():
     mxd = arcpy.mapping.MapDocument("CURRENT")
     layerList = arcpy.mapping.ListLayers(mxd)
